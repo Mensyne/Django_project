@@ -7,7 +7,10 @@ __pycache__/
 
 # C extensions
 *.so
+<<<<<<< HEAD
 
+=======
+>>>>>>> 516a73d2c43005f8e7a94e795a2991a9bf6a033b
 # Distribution / packaging
 .Python
 env/
